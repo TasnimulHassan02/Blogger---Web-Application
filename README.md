@@ -1,4 +1,4 @@
-Blog Web App — Node.js + Express + EJS
+Blog Web App — Node.js + Express + EJS<br>
 A minimal blog-style web application built using Node.js, Express.js, and EJS. Users can
 create, view, edit, and delete posts. No database is used; all posts are stored in memory during
 runtime. Includes responsive styling for a smooth user experience.
