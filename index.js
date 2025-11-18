@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static('public'));
 
 app.listen(port, () => {
-    console.log("Server is running on port: " + port);
+    console.log("Server is running on the port: " + port);
 });
 
 app.get("/", (req, res) => {
